@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "666625577764",
+    "firebase_url": "https://tntj-blood-donors.firebaseio.com",
+    "project_id": "tntj-blood-donors",
+    "storage_bucket": "tntj-blood-donors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666625577764:android:101b37d614a046aa",
+        "android_client_info": {
+          "package_name": "com.blooddonors.tntj.blooddonors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666625577764-7j3pplh8shemqoeinnnd49pim0o8svbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blooddonors.tntj.blooddonors",
+            "certificate_hash": "e4605a13ce787a3e06737775bb74b8bbd5306ed9"
+          }
+        },
+        {
+          "client_id": "666625577764-babc7fdia2oa4e3svlc4l64ehq2elech.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOXrNUlouv89yo_79lMRSMgJkN2Jx-LQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666625577764-babc7fdia2oa4e3svlc4l64ehq2elech.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666625577764:android:bc7184dfd12e0874",
+        "android_client_info": {
+          "package_name": "dummy.dumm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666625577764-babc7fdia2oa4e3svlc4l64ehq2elech.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOXrNUlouv89yo_79lMRSMgJkN2Jx-LQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666625577764:android:a81b0d5bfdec635a",
+        "android_client_info": {
+          "package_name": "ummyd.dsfasd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666625577764-babc7fdia2oa4e3svlc4l64ehq2elech.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOXrNUlouv89yo_79lMRSMgJkN2Jx-LQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

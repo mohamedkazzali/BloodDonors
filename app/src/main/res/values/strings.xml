@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">TNTJ Blood Donors</string>
+    <string name="agree_terms">I agree to donate my blood on requirement/emergency. All my contact details are correct.</string>
+    <string name="data_not_available">Data not available!</string>
+
+    <string-array name="district_list">
+        <item>Ariyalur</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Cuddalore</item>
+        <item>Dharmapuri</item>
+        <item>Dindigul</item>
+        <item>Erode</item>
+        <item>Kancheepuram</item>
+        <item>Kanniyakumari</item>
+        <item>Karur</item>
+        <item>Killiyur</item>
+        <item>Krishnagiri</item>
+        <item>Madurai</item>
+        <item>Nagapattinam</item>
+        <item>Namakkal</item>
+        <item>Nilgiris</item>
+        <item>Perambalur</item>
+        <item>Pudukkottai</item>
+        <item>Ramanathapuram</item>
+        <item>Salem</item>
+        <item>Sivaganga</item>
+        <item>Thanjavur</item>
+        <item>Theni</item>
+        <item>Tiruchirapalli</item>
+        <item>Tiruvarur</item>
+        <item>Tirunelveli</item>
+        <item>Tirupur</item>
+        <item>Thiruvallur</item>
+        <item>Tiruvannamalai</item>
+        <item>Tuticorin</item>
+        <item>Vellore</item>
+        <item>Villupuram</item>
+        <item>Virudhunagar</item>
+    </string-array>
+
+    <string-array name="state_list">
+        <item>Tamil Nadu</item>
+    </string-array>
+
+    <string-array name="country_list">
+        <item>India</item>
+    </string-array>
+
+    <string-array name="blood_list">
+        <item>A+</item>
+        <item>A-</item>
+        <item>A1+</item>
+        <item>A1-</item>
+        <item>A1B+</item>
+        <item>A1B-</item>
+        <item>A2+</item>
+        <item>A2-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>Bombay</item>
+        <item>INRA</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+</resources>

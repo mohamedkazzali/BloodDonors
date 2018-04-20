@@ -1,0 +1,156 @@
+{
+  "Tamilnadu":
+  {
+
+    "Ariyalur":[
+      "All","Andimadam","Ariyalur","Sendurai","Udayarpalayam","Others"
+    ],
+    "Chennai":[
+      "All","Adambakkam","Adyar","Alwarpet","Ambattur","Aminjikarai","Anna Nagar Arcot","Annanagar","Annasalai","Ashok Nagar","Avadi","Ayanavaram","Besant Nagar","Broadway","Chepauk","Chetpet","Chitlapakkam","Choolaimedu","Chrompet","Dr.radhakrishnan Nagar","Egmore","Ennore","George Town","Guindy","Harbour","Jaffarkhanpet","Jawahar Nagar","Kamaraj Nagar","Kilpauk","KK Nagar","Kodambakkam","Kolathur","Korattur","Kottupuram","Koyambedu","Krishnampettai","Madhavaram","Madipakkam","Maduvankarai","Mambalam","Manali","Manapakkam","Mandhaveli","Mannady","Meenambakkam","MMDA Colony","Mylapore","Nandambakkam","Nandanam","Nanganallur","Nungambakkam","Padi","Pallavaram","Pammal","Park Town","Perambur","Porur","Purasawalkam","Ramapuram","Royapuram","Saidapet","Tambaram","Taramani","Theagaraya Nagar","Thiruvanmiyur","Thiruvottiyur","Thousand Lights","Tirsulam","Tondiarpet","Triplicane","Vadapalani","Vandalur","Velacherry","Villivakkam","Virugambakkam","Washermanpet","Zam Bazzar","Others"
+    ],
+    "Coimbatore":
+    ["All","Avinashi","Coimbatore","Dharapuram","Kinathukkadavu","Mettupalayam","Palladam","Perur","Pollachi","Pongalur","Singanallur","Thondamuthur","Tiruppur","Udumalipet","Valparai","Others"
+    ],
+
+    "Cuddalore":[
+      "All","Bhuvanagiri","Chidambaram","Cuddalore","Kattumannarkoil","Kurinjipadi","Mangalore","Nellikuppam","Neyveli","Panruti","Vridhachalam","Others"
+    ],
+
+
+    "Dharmapuri":[
+      "All","Dharmapuri","Harur","Morrapur","Palacode","Pennagaram","Others"
+    ],
+
+    "Dindigul":[
+      "All","Athoor","Dindigul","Natham","Nilakottai","Oddanchatram","Palani","Vedasandur","Others"
+    ],
+
+    "Erode":[
+      "All","Andhiyur","Bhavani","Bhavanisagar","Erode","Gobichettipalayam","Kangeyam","Modakurichi","Perundurai","Sathyamangalam","Vellakoil","Others"
+    ],
+
+    "Kancheepuram":[
+      "All","Acharapakkam","Alandur","Chengalpattu","Kadapakkam","Kalpakkam","Kanathur","Kancheepuram","Kannagi Nagar","Kelambakkam","Kottivakkam","Kovalam","Maduranthakam","Medavakkam","Meeran Nagar","Neelankarai","Palavakkam","Pallikaranai","Panaiyur","Perungudi","Semmanchery","Sriperumbadar","Tambaram","Tiruporur","Uthiramerur","Vettuvankeni","Others"
+    ],
+
+    "Kanniyakumari":[
+      "All","Colachel","Kanniyakumari","Killiyur","Nagercoil","Padmanabhapuram","Thiruvattar","Vilavancode","Others"
+    ],
+
+    "Karur":[
+      "All","Aravakurichi","Karur","Krishnarayapuram","Kulithalai","Others"
+    ],
+
+
+    "Krishnagiri":[
+      "All","Bargur","Hosur","Kavaeripattinam","Krishnagiri","Thalli","Others"
+    ],
+
+
+    "Madurai":[
+      "All","Madurai","Melur","Samayanallur","Sedapatti","Sholavandan","Thirumangalam","Tiruparankundram","Usilampatti","Others"
+    ],
+
+    "Nagapattinam":[
+      "All","Kuttalam","Mayiladuthurai","Nagapattinam","Poompuhar","Sirkali","Vedaranyam","Others"
+    ],
+
+
+    "Namakkal":[
+      "All","Kapilamalai","Namakkal","Rasipuram","Sankari","Sendamangalam","Tiruchengode","Others"
+    ],
+
+    "Nilgiris":[
+      "All","Coonoor","Gudalur","Ooatacamund","Others"
+    ],
+
+
+    "Perambalur":[
+      "All","Alathur","Jayankondam","Kunnam","Perambalur","Varahur","Veppanthattai","Others"
+    ],
+
+    "Pudukkottai":[
+      "All","Alangudi","Aranthangi","Kolathur","Pudukkottai","Thirumayam","Others"
+    ],
+
+    "Ramanathapuram":[
+
+      "All","Kadaladi","Mudukulathur","Paramakudi","Ramanathapuram","Thiruvadanai","Others"
+    ],
+
+
+    "Salem":[
+
+      "All","Athur","Edapadi","Mettur","Omalur","Panamarathupatty","Salem","Talavasal","Taramangalam","Veerapandi","Yercaud","Others"
+    ],
+
+    "Sivaganga":[
+
+      "All","Ilayangudi","Karaikudi","Manamadurai","Sivaganga","Tiruppathur","Others"
+    ],
+
+    "Thanjavur":[
+
+      "All","Kumbakonam ","Orathanad","Papanasam","Pattukottai","Thanjavur","Thiruvidaimaruthur","Thiruvonam","Tiruvaiyaru","Others"
+    ],
+
+
+    "Theni":[
+
+      "All","Andipatti","Bodinayakkanur","Cumbum","Periyakulam","Theni","Others"
+    ],
+
+    "Tiruchirapalli":[
+
+      "All","Lalkudi","Marungapuri","Musiri","Srirangam","Thiruverumbur","Thottiam","Tiruchirapalli","Uppiliapuram","Others"
+    ],
+
+    "Tiruvarur":[
+
+      "All","Mannargudi","Nannilam","Tiruthuraipoondi","Tiruvarur","Valangiman","Others"
+    ],
+
+    "Tirunelveli":[
+
+      "All","Alangulam","Ambasamudram","Cheranmahadevi","Kadayanallur","Nanguneri","Palayamkottai","Radhapuram","Sankaranayanarkoil","Tenkasi","Tirunelveli","Vasudevanallur","Others"
+    ],
+
+    "Tirupur":[
+
+      "All","Dharapuram","Kangeyam","Nallur","Palladam","Tirupur","Udumalaipettai","Velampalayam","Vellakoil","Others"
+    ],
+
+
+    "Thiruvallur":[
+
+      "All","Gummidipoondi","Pakkipet","Ponneri","Poonamallee","Thiruttani","Thiruvallur","Thiruvottiyur","Villivakkam","Others"
+    ],
+
+    "Tiruvannamalai":[
+
+      "All","Arni","Chengam","Cheyyar","Kalasapakkam","Peranamallur","Polur","Thandarambattu","Tiruvannamalai","Vandavasi","Others"
+    ],
+
+    "Tuticorin":[
+
+      "All","Koilpatti","Ottapidaram","Sattangulam","Srivaikuntam","Tiruchendur","Tuticorin","Vilathikulam","Others"
+    ],
+
+    "Vellore":[
+
+      "All","Vellore","Others"
+    ],
+
+
+    "Villupuram":[
+
+      "All","Chinnsalem","Gingee","Kandamangalam","Melmalayanur","Mugaiyur","Rishivandiam","Sankarapuram","Thirunavalur","Tindivanam","Tirukoilur","Ulundurpet","Vanur","Villupuram","Others"
+    ],
+
+    "Virudhunagar":[
+
+      "All","Aruppukottai","Rajapalayam","Sattur","Sivakasi","Srivillithur","Virudhunagar","Others"
+    ]
+
+  }
+}

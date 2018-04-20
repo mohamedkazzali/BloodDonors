@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_donor_list_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:focusable="true"
+    android:paddingBottom="@dimen/row_padding_vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/row_padding_vertical">
+
+
+    <TextView
+        android:id="@+id/opTxtFullName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        android:text="Some Name"/>
+
+    <TextView
+        android:id="@+id/opTxtPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="123342343"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_below="@id/opTxtFullName"/>
+
+    <TextView
+        android:id="@+id/opTxtBloodGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="O+"/>
+
+
+</RelativeLayout>

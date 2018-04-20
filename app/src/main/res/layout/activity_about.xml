@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.blooddonors.tntj.blooddonors.AboutActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        tools:layout_editor_absoluteX="10dp" >
+
+        <TextView
+            android:id="@+id/aboutHedingView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About TNTJ"
+            tools:layout_editor_absoluteX="107dp"
+            tools:layout_editor_absoluteY="77dp"
+            android:padding="10dp"
+            android:textAllCaps="true"
+            android:textSize="40dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/aboutTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="75dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:text="Tamil Nadu Thowheed Jamath is a non-political Islamic organization based in Tamil Nadu, India.
+        It was founded in 2004. TNTJ claims to preach true Islam to Muslims and non-Muslims, and is involved in social activities. Tamil nadu thowheed jamat.
+        \n\nMotto: There is no God but Allah. Muhammad is the messenger of God"
+            android:textSize="20dp"
+            app:layout_constraintWidth_min="500dp"
+            tools:layout_editor_absoluteX="83dp"
+            tools:layout_editor_absoluteY="141dp" />
+    </android.support.v7.widget.CardView>
+
+
+
+
+</android.support.constraint.ConstraintLayout>
